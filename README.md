@@ -13,5 +13,5 @@ Estoy desarrolando una app en <a href="https://esflutter.dev/">flutter</a> que s
 
 Algunas estadísticas interesantes de mi perfil y los lenguajes que manejan mis repositorios públicos y privados.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DavichoStar&show_icons=true&count_private=true&theme=vue" alt="DavichoStar" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavichoStar&layout=compact" alt="DavichoStar" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavichoStar&show_icons=true&count_private=true&theme=vue" alt="DavichoStar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavichoStar&layout=compact" alt="DavichoStar" /> 
