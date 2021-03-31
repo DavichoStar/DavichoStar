@@ -28,27 +28,20 @@ Estoy desarrolando una app con [flutter](https://esflutter.dev/) que será de ed
 - Correo: davichostar@protonmail.com
 <p align="left">
   <a href="https://linkedin.com/in/erick-david-flores-escobar-3b9a0aa4/" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/linkedin.svg" alt="davichostar" height="32" width="32" />
+      <img align="center" src="https://api.iconify.design/mdi:linkedin.svg?color=%2300fef4&height=35" alt="davichostar" />
   </a>
   <a href="https://instagram.com/davichostar" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davichostar" height="32" width="32" />
+    <img align="center" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=35" alt="davichostar" />
   </a>
   <a href="https://twitter.com/davicho_star" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/twitter.svg" alt="davicho_star" height="32" width="32" />
+    <img align="center" src="https://api.iconify.design/mdi:twitter.svg?color=%2300fef4&height=35" alt="davicho_star" />
   </a>
   <a href="https://dev.to/davichostar">
-    <img align="center"  src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DavichoStar's DEV Community Profile" height="32" width="32">
+    <img align="center"  src="https://api.iconify.design/bx:bxl-dev-to.svg?color=%2300fef4&height=35" alt="DavichoStar's DEV Community Profile" />
   </a>
 </p>
 
-## Estadísticas
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavichoStar&show_icons=true&count_private=true&theme=vue-dark" alt="DavichoStar" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavichoStar&theme=vue-dark&layout=compact" alt="DavichoStar" height="150" /> 
-</p>
-
-## Lenguajes y Herramientas
+## Lenguajes
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -71,3 +64,20 @@ Estoy desarrolando una app con [flutter](https://esflutter.dev/) que será de ed
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25"/>
   </a>
 </p>
+
+## :zap: Estadísticas
+
+<details>
+  <summary>Ver</summary>
+
+  ### De GitHub
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavichoStar&show_icons=true&count_private=true&theme=vue-dark" alt="DavichoStar" height="150" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavichoStar&theme=vue-dark&layout=compact" alt="DavichoStar" height="150" /> 
+  </p>
+  
+  ### De los últimos 7 días
+  <figure><img align="center" src="https://wakatime.com/share/@DavichoStar/8dcbe2a3-9fe1-479a-b358-f6668b488471.svg" alt="WakaTime-DavichoStar" /></figure>
+
+</details>
