@@ -27,9 +27,6 @@ Estoy desarrolando una app con [flutter](https://esflutter.dev/) que será de ed
 - Discord: DavichoStar#8104
 - Correo: davichostar@protonmail.com
 <p align="left">
-  <a href="https://linkedin.com/in/erick-david-flores-escobar-3b9a0aa4/" target="blank">
-      <img align="center" src="https://api.iconify.design/mdi:linkedin.svg?color=%2300fef4&height=35" alt="davichostar" />
-  </a>
   <a href="https://instagram.com/davichostar" target="blank">
     <img align="center" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=35" alt="davichostar" />
   </a>
