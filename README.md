@@ -2,7 +2,7 @@
 
 Gracias por ver mi perfil, los repositorios más geniales son repos privados, pero en el futuro esto estará más lleno
 
-Soy un desarrollador mexicano con experiencia en TypeScript (TS) y NodeJS principalmente pero también conozco de Java, Python, C#, C++ con menor habilidad.
+Soy un desarrollador mexicano con experiencia en TypeScript (TS) y NodeJS principalmente pero también conozco de Dart, Java, Python, C#, C++ con menor habilidad.
 
 [![DavichoStar](https://komarev.com/ghpvc/?username=DavichoStar&color=00ae86&label=Vistas+Del+Perfil)](https://github.com/DavichoStar) [![Twitter: davicho_star](https://img.shields.io/twitter/follow/davicho_star?style=social)](https://twitter.com/davicho_star) [![GitHub DavichoStar](https://img.shields.io/github/followers/DavichoStar?label=follow&style=social)](https://github.com/DavichoStar)
 
@@ -12,14 +12,13 @@ He creado dos bots de Discord, ambos hechos en TypeScript ejecutandose en NodeJS
 - StarLight: Es un bot multifuncional en busca de ganarse sus propios méritos e identidad, en un mundo repreto de bots. [Top.gg](https://top.gg/bot/517786947171909643)
 - StarLigth Economy: Es un bot enfocado en la economía ficticia de una comunidad de Discord pero totalmente en español. [Top.gg](https://top.gg/bot/696723299459268728)
 
-También eh creado la página web de StarLight Economy en [ReactJS](https://es.reactjs.org/) con un backend en [Express](https://www.npmjs.com/package/express) y [GraphQL](https://graphql.org/). Puedes visitar la página en [este enlace](http://starlight-economy.live/)
+También eh creado la página web de StarLight Economy en [ReactJS](https://es.reactjs.org/) con un backend en [Express](https://www.npmjs.com/package/express). Puedes visitar la página en [este enlace](http://starlight-economy.live/)
 
 Estoy desarrolando una app con [flutter](https://esflutter.dev/) que será de educación y trata de las univerisdades en México. No hay más detalles hasta que esté publicada en la Google Play Store y si tiene suficiente apoyo, también en la App Store de iOS.
 
 ## Actualmente Aprendiendo
 
 - ReactJS
-- VueJS
 - Flutter
 
 ## Contáctame
@@ -59,6 +58,14 @@ Estoy desarrolando una app con [flutter](https://esflutter.dev/) que será de ed
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25"/>
   </a> <a href="https://flutter.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25"/>
+  </a>
+</p>
+
+## Certificaciones
+
+<p align="center">
+  <a href="https://www.credly.com/badges/8c441e2f-eb1c-4e5a-9b3d-863af7f1509b/public_url" target="_blank">
+    <img src="https://i.imgur.com/4mfyVSa.png" alt="azure_fundamentals" width="100" height="100"/>
   </a>
 </p>
 
