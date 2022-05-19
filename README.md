@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy DavichoStar
 
-Gracias por ver mi perfil, los repositorios más geniales son repos privados, pero en el futuro esto estará más lleno
+Gracias por ver mi perfil, los repositorios más geniales son privados, pero en el futuro esto estará más lleno
 
-Soy un desarrollador mexicano con experiencia en TypeScript (TS) y NodeJS principalmente pero también conozco de Dart, Java, Python, C#, C++ con menor habilidad.
+Soy un desarrollador mexicano con experiencia en TypeScript (TS), NodeJS y Dart principalmente pero también conozco de Java, Python, C#, C++ con menor habilidad.
 
 [![DavichoStar](https://komarev.com/ghpvc/?username=DavichoStar&color=00ae86&label=Vistas+Del+Perfil)](https://github.com/DavichoStar) [![Twitter: davicho_star](https://img.shields.io/twitter/follow/davicho_star?style=social)](https://twitter.com/davicho_star) [![GitHub DavichoStar](https://img.shields.io/github/followers/DavichoStar?label=follow&style=social)](https://github.com/DavichoStar)
 
@@ -12,14 +12,18 @@ He creado dos bots de Discord, ambos hechos en TypeScript ejecutandose en NodeJS
 - StarLight: Es un bot multifuncional en busca de ganarse sus propios méritos e identidad, en un mundo repreto de bots. [Top.gg](https://top.gg/bot/517786947171909643)
 - StarLigth Economy: Es un bot enfocado en la economía ficticia de una comunidad de Discord pero totalmente en español. [Top.gg](https://top.gg/bot/696723299459268728)
 
-También eh creado la página web de StarLight Economy en [ReactJS](https://es.reactjs.org/) con un backend en [Express](https://www.npmjs.com/package/express). Puedes visitar la página en [este enlace](http://starlight-economy.live/)
+También eh creado la página web de StarLight Economy en [ReactJS](https://es.reactjs.org/) con un backend en [Express](https://www.npmjs.com/package/express). Puedes visitar la página en [este enlace](http://sl-economy.ga/)
 
-Estoy desarrolando una app con [flutter](https://esflutter.dev/) que será de educación y trata de las univerisdades en México. No hay más detalles hasta que esté publicada en la Google Play Store y si tiene suficiente apoyo, también en la App Store de iOS.
+Actualmente trabajo en una aplicación hecha con [flutter](https://esflutter.dev/) para android (y futuramente iOS si así lo quiere el cliente). Por cuestiones de confidencialidad, no puedo dar detalles hasta que sea publicada en algún punto del 2022, mas que es una app estilo Airbnb con público exclusivo en México. 
+
+Otro proyecto personal que tengo en pausa es igual una app con [flutter](https://esflutter.dev/) que está relacionado con las universidades de México, pensada para público de nivel medio superior. La publicaré en la Google Play Store en su debido momento.
+
+De proyectos pequeños tengo varios bots para Discord que otras personas me han solicidao con funciones como recordatorios, bienvenidas, tickets, sistema de experiencia, entre otras funciones. Todos hechos en JavaScript o TypeScrip, con NodeJS y discord.js. 
 
 ## Actualmente Aprendiendo
 
-- ReactJS
 - Flutter
+- ReactJS
 
 ## Contáctame
 
