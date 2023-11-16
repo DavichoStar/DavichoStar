@@ -74,7 +74,6 @@ De proyectos pequeños tengo varios bots para Discord que otras personas me han 
 
 ## Contáctame
 
-- Discord: DavichoStar#8104
 - Correo: davichostar@protonmail.com
 
 <p align="left">
